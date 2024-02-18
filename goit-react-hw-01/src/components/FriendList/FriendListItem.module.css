@@ -1,0 +1,17 @@
+.active {
+    color: green;
+}
+
+.notActive {
+    color: tomato;
+}
+
+.item {
+    border: 2px grey solid;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.avatar {
+    padding-top: 10px;
+}
